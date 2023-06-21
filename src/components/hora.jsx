@@ -16,23 +16,27 @@ function TabelaHora() {
       <tbody>
         <tr>
           <td>1</td>
+          <td>1</td>
           <td>VIGILANTE</td>
-          <td>32</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>2</td>
-          <td>AJUDANTE GERAL</td>
-          <td>31</td>
+          <td>1</td>
+          <td>CABELELEIRA</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>3</td>
-          <td>AUXILIAR DE ESCRITORIO</td>
-          <td>23</td>
+          <td>1</td>
+          <td>CAIXA</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>4</td>
-          <td>GARCONETE</td>
-          <td>14</td>
+          <td>1</td>
+          <td>AUXILIAR DE ESCRITORIO</td>
+          <td>2</td>
         </tr>
         
       </tbody>

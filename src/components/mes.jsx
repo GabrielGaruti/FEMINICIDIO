@@ -8,72 +8,42 @@ function TabelaMes() {
       <thead>
         <tr>
           <th>#</th>
-          <th>DATAEHORA+REGISTRO_BO</th>
+          <th>DATAEHORA_REGISTRO_BO</th>
           <th>MUNICIPIO</th>
+          <th>VITIMAS</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>1</td>
           <td>1/1/2017</td>
-          <td>61</td>
+          <td>São Paulo</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>2</td>
-          <td>Julho (07)</td>
-          <td>73</td>
+          <td>9/8/2022</td>
+          <td>Mairinque</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>3</td>
-          <td>Fevereiro (02)</td>
-          <td>77</td>
+          <td>9/8/2019</td>
+          <td>Cajamar</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>4</td>
-          <td>Agosto (08)</td>
-          <td>79</td>
+          <td>9/28/2022</td>
+          <td>Bauru</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>5</td>
-          <td>Janeiro (01)</td>
-          <td>82</td>
-        </tr>
-        <tr>
-          <td>6</td>
-          <td>Setembro (09)</td>
-          <td>87</td>
-        </tr>
-        <tr>
-          <td>7</td>
-          <td>Abril (04)</td>
-          <td>88</td>
-        </tr>
-        <tr>
-          <td>8</td>
-          <td>Março (03)</td>
-          <td>94</td>
-        </tr>
-        <tr>
-          <td>9</td>
-          <td>Novembro (11)</td>
-          <td>99</td>
-        </tr>
-        <tr>
-          <td>10</td>
-          <td>Maio (05)</td>
-          <td>100</td>
-        </tr>
-        <tr>
-          <td>11</td>
-          <td>Outubro (10)</td>
-          <td>104</td>
-        </tr>
-        <tr>
-          <td>12</td>
-          <td>Dezembro (12)</td>
-          <td>116</td>
-        </tr>
-        
+          <td>9/27/2020</td>
+          <td>São José dos Campos</td>
+          <td>3</td>
+        </tr>             
       </tbody>
     </Table>
   );
